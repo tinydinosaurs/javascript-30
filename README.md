@@ -4,9 +4,9 @@ I, like many of my peers, am taking Wes Bos' Javascript 30 challenge. This is th
 
 ....with one exception. The first project, Javascript Drum Kit, is in a separate repository. Actually, mine isn't a drum kit. It's a [Javascript Drum Kitty 🐈](https://tinydinosaurs.github.io/javascript-drum-kitty/). Have fun with that.
 
-## Projects in this Repo
+## Projects in this Repo (and completed status)
 
-* 02 - CSS + JS Clock
+* 02 - CSS + JS Clock ☑️
 
 * 03 - Playing with CSS Variables and JS
 
