@@ -6,15 +6,48 @@ html {
 }
 
 body {
-  background-color: pink;
+  background-color: #de7d9c;
   font-family: 'Libre Franklin', sans-serif;
-  color: #4a4a4a;
+  color: #3a3a3a;
+  font-size: 1.25rem;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+main {
+  padding: 0 6rem;
+}
+
+a {
+  text-decoration: none;
+  color: #fbfafb;
+  transition: all 500ms ease-in-out;
+}
+
+a:hover {
+  font-size: 1.28rem;
+}
+
+ul {
+  list-style: none;
+  width: 66%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+ul li + li {
+  margin-top: 1rem;
+}
+
+
+.centered {
+  text-align: center;
 }
