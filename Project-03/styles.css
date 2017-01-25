@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-size: 1rem;
+  font-family: 'Overpass Mono', monospace;
+  background-color: #fafafa;
+}
+
+h1 {
+  font-family: 'Monoton', cursive;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 4rem;
+}
+
+header, main {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+main {
+  text-align: center;
+}
+
+header {
+/*border-bottom: 1px solid lightpink;*/
+padding-bottom: 1rem;
+margin-bottom: 4rem;
+background-color: white;
+
+}
+
+header div {
+  display: inline-block;
+}
+
+.title {
+}
+
+.form {
+  text-align: left;
+  border: 1px solid magenta;
+}
+
+.form div {
+  display: block;
+}
+
+.form div + div {
+  margin-top: 1.3rem;
+}
