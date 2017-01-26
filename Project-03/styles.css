@@ -1,3 +1,10 @@
+:root {
+  --circle-size: 10rem;
+  --main-color: #000000;
+  --border-size: 0.5rem;
+  --border-color: #cccccc;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -15,9 +22,10 @@ body {
 
 h1 {
   font-family: 'Monoton', cursive;
-  font-size: 3rem;
+  font-size: 3.125rem;
   font-weight: 400;
-  line-height: 4rem;
+  line-height: 3.75rem;
+  word-spacing: 1rem;
 }
 
 header, main {
@@ -30,29 +38,60 @@ main {
 }
 
 header {
-/*border-bottom: 1px solid lightpink;*/
 padding-bottom: 1rem;
+padding-top: 1rem;
 margin-bottom: 4rem;
 background-color: white;
-
+text-align: center;
 }
 
-header div {
+header span {
+  color: var(--main-color)
+}
+
+main div {
+  display: inline-block;
+  float:left;
+}
+
+.controls {
+  background-color: rgba(255,182,193,0.65);
+  padding: 1.25rem 2.5rem;
+  width: 9.375rem;
+  margin-right: 5rem;
+}
+
+.controls div {
   display: inline-block;
 }
 
-.title {
-}
-
-.form {
-  text-align: left;
-  border: 1px solid magenta;
-}
-
-.form div {
-  display: block;
-}
-
-.form div + div {
+.controls div + div {
   margin-top: 1.3rem;
+}
+
+.circle-box {
+  width: calc(100% - 24rem);
+  padding-top: 1rem;
+  margin-left: 4rem;
+}
+
+.circle {
+  background-color: var(--main-color);
+  width: var(--circle-size);
+  height: var(--circle-size);
+  border-radius: 50%;
+  border: var(--border-size) solid var(--border-color);
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 600px) {
+
+  .circle-box {
+    width: 100%;
+    padding-top: 3rem;
+  }
+
+  .controls {
+    width: calc(100% - 4rem);
+  }
 }
