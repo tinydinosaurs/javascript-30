@@ -8,7 +8,7 @@ I, like many of my peers, am taking Wes Bos' Javascript 30 challenge. This is th
 
 * 02 - CSS + JS Clock ☑️
 
-* 03 - Playing with CSS Variables and JS
+* 03 - Playing with CSS Variables and JS ☑️
 
 * 04 - Array Cardio Day 1
 
