@@ -4,11 +4,13 @@ I, like many of my peers, am taking Wes Bos' Javascript 30 challenge. This is th
 
 ....with one exception. The first project, Javascript Drum Kit, is in a separate repository. Actually, mine isn't a drum kit. It's a [Javascript Drum Kitty 🐈](https://tinydinosaurs.github.io/javascript-drum-kitty/). Have fun with that.
 
-## Projects in this Repo (and completed status)
+## Projects in this Repo
 
-* 02 - CSS + JS Clock ☑️
+* 01 - Javascript Drum Kitty](https://tinydinosaurs.github.io/javascript-drum-kitty/) ☑️
 
-* 03 - Playing with CSS Variables and JS ☑️
+* 02 - [CSS + JS Clock](./Project-02/clock.html) ☑️
+
+* 03 - [Playing with CSS Variables and JS](./Project-03/variables.html) ☑️
 
 * 04 - Array Cardio Day 1
 
