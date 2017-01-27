@@ -6,7 +6,7 @@ I, like many of my peers, am taking Wes Bos' Javascript 30 challenge. This is th
 
 ## Projects in this Repo
 
-* 01 - Javascript Drum Kitty](https://tinydinosaurs.github.io/javascript-drum-kitty/) ☑️
+* 01 - [Javascript Drum Kitty](https://tinydinosaurs.github.io/javascript-drum-kitty/) ☑️
 
 * 02 - [CSS + JS Clock](./Project-02/clock.html) ☑️
 
@@ -14,7 +14,7 @@ I, like many of my peers, am taking Wes Bos' Javascript 30 challenge. This is th
 
 * 04 - Array Cardio Day 1
 
-* 05 - Flex Panels Image Gallery
+* 05 - Flex Panels Image Gallerygit
 
 * 06 - Ajax Type Ahead
 
