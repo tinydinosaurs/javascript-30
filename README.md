@@ -8,7 +8,7 @@ I, like many of my peers, am taking Wes Bos' Javascript 30 challenge. This is th
 
 * 01 - [Javascript Drum Kitty](https://tinydinosaurs.github.io/javascript-drum-kitty/) ☑️
 
-* 02 - [CSS + JS Clock](./Project-02/clock.html) ☑️
+* 02 - [CSS + JS Clock](./Project-02/) ☑️
 
 * 03 - [Playing with CSS Variables and JS](./Project-03/variables.html) ☑️
 
